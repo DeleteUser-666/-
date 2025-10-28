@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+
+body {
+    background-color: rgb(88, 88, 88);
+    background-image: url(fundo.png);
+    background-size: cover; 
+    background-attachment: fixed; 
+}
+
+img {
+    width: 50%;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+    border: 5px solid rgb(0, 0, 0)
+}
+
+a {
+    color: red;
+}
+
+h2 {
+    color: rgb(94, 255, 0);
+}
+
+li {
+    color: rgb(255, 0, 0);
+    font-style: oblique;
+}
+
+p {
+    color: greenyellow;
+    background-color: rgb(17, 128, 255);
+    backface-visibility: hidden;
+}
